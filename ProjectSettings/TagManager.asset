@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - PowerUp
+  - Shield
+  - EnergyDrag
+  - Flash2Shoot
+  - FlashShoot2
+  - Boss
+  - SpawnPoint
+  - PlayerBullet
+  - Wall
+  - EnemyBullet
+  - Explosion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - PlayerShoot
+  - EnemieShoot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Shoots
+    uniqueID: 3354741453
+    locked: 0
+  - name: Enemies
+    uniqueID: 1546593985
+    locked: 0
+  - name: Player
+    uniqueID: 890747367
+    locked: 0
+  - name: EnemyShoots
+    uniqueID: 1272184303
+    locked: 0
+  - name: BlackMask
+    uniqueID: 2852841053
+    locked: 0
+  m_RenderingLayers:
+  - Default

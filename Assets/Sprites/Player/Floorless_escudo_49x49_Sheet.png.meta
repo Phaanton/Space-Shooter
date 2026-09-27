@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: e68994d8a375b9b489d82c222ce6c93a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7896236300459609165
+    second: Floorless_escudo_49x49_Sheet_0
+  - first:
+      213: 8622171321481794223
+    second: Floorless_escudo_49x49_Sheet_1
+  - first:
+      213: 6050206221828680644
+    second: Floorless_escudo_49x49_Sheet_2
+  - first:
+      213: -4505657903355718748
+    second: Floorless_escudo_49x49_Sheet_3
+  - first:
+      213: 2246266025080608102
+    second: Floorless_escudo_49x49_Sheet_4
+  - first:
+      213: 469297028965358533
+    second: Floorless_escudo_49x49_Sheet_5
+  - first:
+      213: -2929400318066989590
+    second: Floorless_escudo_49x49_Sheet_6
+  - first:
+      213: -3051255015472504716
+    second: Floorless_escudo_49x49_Sheet_7
+  - first:
+      213: 5378555783033389230
+    second: Floorless_escudo_49x49_Sheet_8
+  - first:
+      213: 8120156046509157672
+    second: Floorless_escudo_49x49_Sheet_9
+  - first:
+      213: 3530394487339163464
+    second: Floorless_escudo_49x49_Sheet_10
+  - first:
+      213: -4258988430262642870
+    second: Floorless_escudo_49x49_Sheet_11
+  - first:
+      213: 8068824552349790770
+    second: Floorless_escudo_49x49_Sheet_12
+  - first:
+      213: 629620865485773504
+    second: Floorless_escudo_49x49_Sheet_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Floorless_escudo_49x49_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c80774411159d60800000000000000
+      internalID: 7896236300459609165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floorless_escudo_49x49_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 118
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa29b79722b18a770800000000000000
+      internalID: 8622171321481794223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floorless_escudo_49x49_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 118
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbe4fdd086a6f350800000000000000
+      internalID: 6050206221828680644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floorless_escudo_49x49_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 118
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a31d074200b871c0800000000000000
+      internalID: -4505657903355718748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floorless_escudo_49x49_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 118
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66555ff6c075c2f10800000000000000
+      internalID: 2246266025080608102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floorless_escudo_49x49_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 118
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb50a15927438600800000000000000
+      internalID: 469297028965358533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floorless_escudo_49x49_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 118
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae563bc6eeda857d0800000000000000
+      internalID: -2929400318066989590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floorless_escudo_49x49_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 118
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470e1abcab3c7a5d0800000000000000
+      internalID: -3051255015472504716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floorless_escudo_49x49_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea00454ecf774aa40800000000000000
+      internalID: 5378555783033389230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floorless_escudo_49x49_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d2be0e6e690b070800000000000000
+      internalID: 8120156046509157672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floorless_escudo_49x49_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f19d6d41b7ef030800000000000000
+      internalID: 3530394487339163464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floorless_escudo_49x49_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4752b7769805e4c0800000000000000
+      internalID: -4258988430262642870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floorless_escudo_49x49_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23272cd0e293aff60800000000000000
+      internalID: 8068824552349790770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floorless_escudo_49x49_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca147e57dcdcb800800000000000000
+      internalID: 629620865485773504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floorless_escudo_49x49_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916679e71fb5bdb4ebbe04a04afa7a11
+      internalID: 857796598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 560089495db34774c8b616096f5b5818
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":3.0},"gridSpriteSize":{"x":59.0,"y":59.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Floorless_escudo_49x49_Sheet_0: 7896236300459609165
+      Floorless_escudo_49x49_Sheet_1: 8622171321481794223
+      Floorless_escudo_49x49_Sheet_10: 3530394487339163464
+      Floorless_escudo_49x49_Sheet_11: -4258988430262642870
+      Floorless_escudo_49x49_Sheet_12: 8068824552349790770
+      Floorless_escudo_49x49_Sheet_13: 629620865485773504
+      Floorless_escudo_49x49_Sheet_14: 857796598
+      Floorless_escudo_49x49_Sheet_2: 6050206221828680644
+      Floorless_escudo_49x49_Sheet_3: -4505657903355718748
+      Floorless_escudo_49x49_Sheet_4: 2246266025080608102
+      Floorless_escudo_49x49_Sheet_5: 469297028965358533
+      Floorless_escudo_49x49_Sheet_6: -2929400318066989590
+      Floorless_escudo_49x49_Sheet_7: -3051255015472504716
+      Floorless_escudo_49x49_Sheet_8: 5378555783033389230
+      Floorless_escudo_49x49_Sheet_9: 8120156046509157672
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

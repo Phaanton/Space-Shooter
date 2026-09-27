@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da054180c7bfb1a48bf5224b7cd507d4, type: 3}
+  m_Name: PatternFlankRight
+  m_EditorClassIdentifier: Assembly-CSharp::SpawnPattern
+  patternName: 
+  formation: 6
+  baseSpawnPosition: 0
+  customPosition: {x: 0, y: 0}
+  useSpecificSpawnPoint: 1
+  specificSpawnPointIndex: 2
+  numberOfEnemies: 4
+  spacing: 1.4
+  entryDelay: 0.2
+  preDelay: 0
+  postDelay: 1
+  enemiesToSpawn:
+  - {fileID: 8838110961145831752, guid: bb78ceffbce327f45a44598456030a8f, type: 3}
+  movementType: 1
+  entryDirection: {x: -1, y: -0.5}
+  entrySpeed: 4
+  useCurveExit: 0
+  curveExitY: -2
+  curveDuration: 1.5
+  curvePath:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  curveExitDirection: {x: -1, y: 0}
+  arcHeight: 3
+  arcWidth: 5
+  arcDuration: 3
+  lShapeTurnPoint: 0
+  lShapeExitDirection: {x: -1, y: 0}
+  turnOnX: 1
+  zigZagAmplitude: 2
+  zigZagFrequency: 3
+  zigZagDuration: 0
+  decelerationRate: 2
+  stopDuration: 0
+  exitAfterStop: 0
+  exitDirection: {x: 0, y: -1}
+  exitSpeed: 2
+  useTrainMovement: 0
+  trainExitDirection: {x: -1, y: 0}
+  trainEntryDuration: 2
+  trainTurnDuration: 1.5
+  trainSpacing: 1.2
+  useWaypoints: 0
+  waypoints: []
+  loopWaypoints: 0
+  waypointTolerance: 0.5
+  enableRotation: 1
+  leaderRotationSpeed: 5
+  followerRotationSpeed: 8
+  spriteRotationOffset: 0
